@@ -26,7 +26,7 @@ import org.junit.rules.TemporaryFolder;
 
 import static org.junit.Assert.*;
 
-/* test placeholder for hw3 */
+@Ignore
 public class TestSortOperator {
 
 

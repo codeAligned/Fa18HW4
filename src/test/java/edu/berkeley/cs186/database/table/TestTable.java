@@ -28,7 +28,7 @@ import edu.berkeley.cs186.database.databox.IntDataBox;
 import edu.berkeley.cs186.database.databox.Type;
 import edu.berkeley.cs186.database.io.Page;
 
-/* test placeholder for hw3 */
+@Ignore
 @FixMethodOrder(MethodSorters.DEFAULT)
 public class TestTable {
   public static final String TABLENAME = "testtable";
